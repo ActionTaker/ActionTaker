@@ -2,7 +2,7 @@
 I'm a passionate and ambitious Computer Science student at UCSD.
 
 ### 🔭 What I’m currently working on
-Since English is my second language, I'm improving my english skills, and I'm trying to be perfectly proficient in c++ language.
+Since English is my second language, I'm working on my english skills, and I'm trying to be perfectly proficient in c++ language.
 
 ### ⚡ Fun facts
 - I am currenting serving in the military
