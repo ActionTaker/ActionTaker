@@ -5,7 +5,6 @@ I'm a passionate and ambitious Computer Science student at UCSD.
 I love creating blockchain app! I'm trying to be perfectly proficient in c++ language.
 
 ### ⚡ Fun facts
-- I am currenting serving in the military
 - I am an international student form South Korea.
 - I enjoy weight lifting.
 
