@@ -1,12 +1,8 @@
 ### 👋 Hey, I'm Juhak
 I'm a passionate and ambitious Computer Science student at UCSD.
 
-### 🔭 What I’m currently working on
 I love creating blockchain app! I'm trying to be perfectly proficient in c++ language.
 
-### ⚡ Fun facts
-- I am an international student form South Korea.
-- I enjoy weight lifting.
 
 
 ### 💪 Skills
